@@ -1,5 +1,4 @@
 This script will convert a SwatchBook SBZ file with CIE Lab colours into a Scribus CIE Lab spot colour swatches.
 It won't work with RGB or CMYK values, it is for CIE Lab only.
 
-The colour swatches can be used in both Scribus and Krita applications.
-Scribus can read SBZ files, but not Krita.
+The colour swatches can be used in Scribus only.
